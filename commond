@@ -1,0 +1,12 @@
+go get 获取下载依赖包
+go build 编译
+go install 编译安装
+gofmt -w *.go  格式化并覆盖原文件
+go doc package 提取注释生产包文档
+go fix 用于将你的 Go 代码从旧的发行版迁移到最新的发行版
+go test 是一个轻量级的单元测试框架
+
+
+java / scala
+c++/ go
+更简洁的代码更少的内存
